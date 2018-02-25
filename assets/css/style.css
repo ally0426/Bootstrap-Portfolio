@@ -96,7 +96,7 @@
   .main-section {
     background: #fff;
     padding: 30px;
-    margin: 0 0 40px 0;
+    margin: 0 0 40px;
     width: 100%;
     max-width: 650px;
     float: left;
@@ -121,7 +121,7 @@
     margin-bottom: 20px;
   }
   
-  h3, .sidebar, h2 {
+  h3, .sidebar h2 {
     border-bottom: 2px solid #eee;
     padding-bottom: 20px;
     margin-bottom: 15px;
